@@ -31,10 +31,6 @@ The Expense Tracker App is designed to help users manage their finances by track
 
 ![image](https://github.com/user-attachments/assets/d017055b-8637-480f-ab8c-058d0f8667a1)
 
-![image](https://github.com/user-attachments/assets/05f8cf3e-9bc6-46f4-95dc-08287063ba39)
-
-![image](https://github.com/user-attachments/assets/272564fc-8c11-4841-bf26-6d0f3267440d)
-
 ## Installation
 
 To get a local copy up and running, follow these simple steps:
